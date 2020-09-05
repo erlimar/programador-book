@@ -1,0 +1,12 @@
+author: E5R Development Team
+title: Your title
+lang: pt_BR
+
+output: [pdf, epub, html]
+
+output.base_path: ../dist
+#rendering.highlight.theme: "InspiredGitHub"
+rendering.chapter: "Capítulo"
+rendering.part: "Parte"
+rendering.inline_toc: true
+rendering.inline_toc.name: Índice

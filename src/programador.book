@@ -1,0 +1,16 @@
+import: ../lib/e5r.book
+
+author: Erlimar Silva Campos
+title: ERLIMAR PROGRAMADOR
+subtitle: Aprenda a Programar Computadores
+
+# Nome dos arquivos finais
+output.html: programador-book.html
+output.epub: programador-book.epub
+output.pdf: programador-book.pdf
+
+# Capa para EPUB
+cover: cover.png
+
+# Lista de capítulos
++ introduction.md
