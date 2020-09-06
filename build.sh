@@ -44,7 +44,7 @@ make() {
     if [ ! -d ./dist ]; then
         mkdir ./dist
     fi
-    crowbook src/programador.book
+    crowbook src/programador.book.yml
 }
 
 if [ "$#" != "0" ]; then

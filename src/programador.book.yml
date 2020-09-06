@@ -1,0 +1,28 @@
+import: ../lib/e5r.book.yml
+
+author: Erlimar Silva Campos
+title: Programador E5R
+subtitle: O básico para programar computadores
+subject: Tecnologia, Programção de Computadores
+description: >-
+  Aprenda a programar computadores de uma vez por todas, e
+  esteja pronto para entrar no mercado de trabalho.
+version: "0.1.0"
+date: Setembro de 2020
+
+# Nome dos arquivos finais
+output.html: programador-book.html
+output.epub: programador-book.epub
+output.pdf: programador-book.pdf
+
+# Capa para EPUB
+cover: cover.png
+
+# Nota padrão E5R
+! ../lib/e5r-notes.md
+
+# Lista de capítulos
+- preface.md
+- introduction.md
+@+ parte_1.md
+
