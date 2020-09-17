@@ -1,4 +1,4 @@
-Prefácil
+Prefacio
 ========
 
 _Este não é um livro para aprender a programar, mas é o livro que junto
