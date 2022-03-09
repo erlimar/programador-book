@@ -14,10 +14,10 @@ diariamente.
 De uma forma ou de outra, sempre estive (e estou) participando de algum tipo
 de mentoria. Seja ensinando aquele programador novato as manhas dos projetos
 na fábrica, ou criando documentação dos componentes da empresa, ou palestrando
-algum cursinho ou workshop do time, ou ainda, simplesmente discutindo idéias
+algum cursinho ou workshop do time, ou ainda, simplesmente discutindo ideias
 com colegas entusiastas de tecnologia no corredor ou copa da empresa.
 Eu também escrevi alguns pequenos artigos em blogs, mas o fato é que eu sempre
-gostei da idéia de ensinar programação.
+gostei da ideia de ensinar programação.
 
 Eu gosto muito de aprender e ensinar sobre técnicas avançadas de programação.
 Coisas como criar bibliotecas e ferramentas de desenvolvimento, desenhar
@@ -41,13 +41,13 @@ uma série  completa de vídeo aula,  artigos no blog ou podcast, e também aos 
 conseguiram completar seus livros. Não é uma tarefa fácil e vocês completaram.
 Parabéns!
 
-> Nossa Erlimar! Então você é muito sem foco. Não conseguiu concluir nenhum uma
+> Nossa Erlimar, então você é muito sem foco! Não conseguiu concluir nenhuma
 > seriezinha de artigos? Você deve estar pensando agora.
 
 Pois é. Por um tempo eu fiquei até desapontado comigo mesmo, e frustrado até.
 Mas então resolvi analisar melhor porque não conseguia terminar esses projetos.
 Foi aí que percebi que na verdade nunca cheguei a desistir, eu só estava mudando
-de idéia de tempos em tempos.
+de ideia de tempos em tempos.
 
 Quando estava escrevendo os artigos, eu entendia que agora era melhor escrever um
 livro; quando escrevendo o livro, percebia que um podcast seria bem mais
@@ -120,10 +120,10 @@ desatualizada, tomei o cuidado de não deixar aqui as referências aos demais
 materiais, a saber: vídeos, artigos, podcasts, notícias, e etc.
 
 Para isso dedicamos um site na Internet exclusivo para reunir essas informações,
-onde você pode encontrar os restante do material relacionado a este livro, e
+onde você pode encontrar o restante do material relacionado a este livro, e
 inclusive encontrar uma versão digital deste próprio livro mais atualizada.
 
-> Acesse http://www.e5r.org!
+> Acesse http://www.e5r.org/books/e5r-programmer!
 
 E a propósito, o que quer dizer *E5R*?
 
@@ -132,7 +132,7 @@ primeira letra *E*, mais a contagem das letras do meio (*RLIMA*) que é 5, mais
 a última letra que é *R*. Juntas formam *E5R*.
 
 Talvez você já tenha visto por aí os termos *I18N* para *Internacionalization*,
-ou *L10N* para *Localization*. É a mesma idéia.
+ou *L10N* para *Localization*. É a mesma ideia.
 
 Se você não é programador e nunca ouviu falar desses termos, não se preocupe,
 daqui em diante temos muito dessas coisas legais para você conhecer.
